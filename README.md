@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Morgana Stone!  
-### 🚀 Aspiring Software Developer | Full Stack Development Student | Problem-Solver with a Strategic Mindset  
+### 🚀 Junior Software Developer | Full Stack Development Student | Problem-Solver with a Strategic Mindset  
 
 Welcome to my GitHub! I'm a **software development student** passionate about **building practical solutions** and optimizing processes through code. Currently, I'm currently pursuing a **Full Stack Software Development Diploma** with the **Code Institute**, honing my skills in:  
 
