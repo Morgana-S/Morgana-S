@@ -4,7 +4,7 @@
 Welcome to my GitHub! I'm a **software development student** passionate about **building practical solutions** and optimizing processes through code. Currently, I'm currently pursuing a **Full Stack Software Development Diploma** with the **Code Institute**, honing my skills in:  
 
 - 🖥 **Frontend**: HTML, CSS, JavaScript (Vanilla, Bootstrap, jQuery)  
-- 🛠 **Backend**: Python, Django, PostgreSQL, MongoDB  
+- 🛠 **Backend**: Python 
 - 🔧 **Tools & Workflow**: Git, GitHub, Agile Development, Process Optimization  
 - 💡 **Other**: Problem-solving, documentation, customer-focused development  
 
