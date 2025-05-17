@@ -14,5 +14,5 @@ Welcome to my GitHub! I'm a software development student passionate about buildi
 - Learning more about **backend scalability & system design**
 - 
 ## Let’s Connect!  
-**[LinkedIn](https://www.linkedin.com/in/morgana-stone-107878250/)**
-**Email: Morganastone1995@gmail.com**  
+- **[LinkedIn](https://www.linkedin.com/in/morgana-stone-107878250/)**
+- **Email: Morganastone1995@gmail.com**  
