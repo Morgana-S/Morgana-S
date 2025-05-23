@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a software development student passionate about buildi
 - Working with Python for back-end and terminal-based development
 - Expanding my **project portfolio* with HTML, CSS, JavaScript and Python projects
 - Learning more about **backend scalability & system design**
-- 
+  
 ## Let’s Connect!  
 - **[LinkedIn](https://www.linkedin.com/in/morgana-stone-107878250/)**
 - **Email: Morganastone1995@gmail.com**  
